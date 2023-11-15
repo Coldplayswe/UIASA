@@ -1,0 +1,46 @@
+{
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": false,
+            "HideIconAfter": 60,
+            "IconURL": "https://imgur.com/a/0YGG7SY",
+            "DisableIconText": false,
+            "IconPosition": 0,
+            "IconTextColor": 0,
+            "OpenOnStart": false,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "Welcome to The Mystic Lions community",
+                    "title1": "Thanks for installing WBUI2!",
+                    "text1": "We are a friendly community for all players but u need to be mature and keep in mind the we treat each other with respect.\nWe are a growing community and we like to discuss games and gaming. Feel free to join our discord channel.\n There u can meet with our owners Metalfether and Coldplay.\n We are almost every night in the discord voice channel to help out and chatting.!\n\n\nHope u enjoy our community!\n\n",
+                    "imageurl": "https://imgur.com/a/0YGG7SY"
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 2,
+                    "buttontext": "ASA Server",
+                    "title1": "ASA The Island:",
+                    "text1": "<TextStyle.LightBlue>The Island:</>\n\n\\This is our first ASA server, we are testing it out and see whats is good settings and mods for quality of life in the server, feel free to come with comments and suggestions for the server. Admins are Metelfether and Coldplay contact them in the discord channel for help.\n\n\n",
+                    "title2": "Stats and Mods:",
+                    "text2": "Mods: [TG Stacking Mod 1000-50][Super Spyglass Plus][Death Inventory Keeper][WBUI2][Puller][Omega Dino Storage]\n\n\n Stats: [Xp: 1x][EggHatching: 8x][BabyMature: 8x][LayEggInterval: 0.4x][MatingInterval: 0.4x]\n",
+                    "imageurl": "https://imgur.com/a/0YGG7SY"
+                }
+            }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "Discord",
+                    "url": "https://discord.gg/7XYYASn6"
+                }
+            }
+        ]
+    }
+}
